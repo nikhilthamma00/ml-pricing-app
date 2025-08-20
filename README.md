@@ -2,6 +2,8 @@
 
 A smart pricing simulator that uses machine learning to recommend revenue-maximizing prices in real time. Inspired by how Amazon, Uber, and airlines dynamically price based on demand, competition, and customer behavior.
 
+#### NOTE: A simulated dataset was used for this project.
+
 ## Demo Features
 - Predict demand using market and behavioral inputs
 - Run simulations to identify optimal pricing points
@@ -45,4 +47,3 @@ Projected Revenue: `$8,575.00`
 pip install -r requirements.txt
 streamlit run app.
 
-  *NOTE: A simulated dataset was used for this project.*
