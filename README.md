@@ -45,4 +45,4 @@ Projected Revenue: `$8,575.00`
 pip install -r requirements.txt
 streamlit run app.
 
-*NOTE: A simulated dataset was used for this project.
+  *NOTE: A simulated dataset was used for this project.*
